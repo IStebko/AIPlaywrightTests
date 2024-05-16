@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.44",
+    "@types/node": "^20.12.10",
+    "@zerostep/playwright": "^0.1.5"
+  },
+  "dependencies": {
+    "csv": "^6.3.8"
+  }
+}
